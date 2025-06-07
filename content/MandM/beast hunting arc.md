@@ -7,49 +7,32 @@ tags:
   - story
   - session1
 ---
-we are all on the same team
-we all discuss our powers
+We are all end up on the same team
+We all discuss our powers, and introduce ourselves to each other. 
 
-we happen upon ruins, a body of water. 
+We travel south.
+We happen upon ruins, a body of water. 
 [[Paxton]] realizes the water should not be here.
 
-Stand: 
-
-find a bobcat -> def
-[[Tag]] initiates
-[[Roque]] summons, and sets up defense
-[[Paxton]] takes on afflictions from [[Chuck]]
-
-2 mini cats killed by [[Gec 2 Ü]]
-
-Jared hits big cat with ranged attack 
-
-[[Tag]] nades group of kitties
-
-1 mini cat killed by nade
-
-[[Tag]] hero point on big cat
-kills cat
-loses high
-
-[[Roque]]
+Our group encounter a large [[bobcat]] and four of its [[bobcat]] wives.
+-> [[BHA combat log 1]]
 
 Many in the group realize they should get out of the open now. 
 
 The group heads into a nearby building to rest
 
-*snakes attack* -> [[Roque]] and [[Chuck]]
+While we rest->
+*small encounter*
+```
+*Two snakes attack* -> [[Roque]] and [[Chuck]]
 
 Chuck gets hit by a snake and is dazed
 
 [[Roque]] gets hit 
 
-Me: -3 Staggered
-
-Stand: -5 def 
-
-[[Roque]] smashes a snake
+[[Crash Dummy]] smashes a snake
 [[Chuck]] kills second snake
+```
 
 The party rests
 [[Paxton]] meditates
@@ -61,7 +44,7 @@ Less gunfire over the next hour
 
 Competitors are further away.
 
-Roque noticed 3 beasts, human in trouble, 
+Roque noticed 3 beasts, human in trouble, lets the rest of the group know. 
 
 [[Paxton]] and [[Tag]] happen upon the scene, a crashed plane is in the scene, with two buildings, and a large crater
 
