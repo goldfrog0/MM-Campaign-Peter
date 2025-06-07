@@ -1,8 +1,9 @@
 ---
-title: Welcome to Our Campaign
-draft: false
-tags:
+title: Authoring Content
 ---
+
+title: Welcome to Quartz
+
 
 
 
