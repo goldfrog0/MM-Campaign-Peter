@@ -6,6 +6,9 @@ tags:
   - examination
   - session1
 ---
+ 
+The rest of your content lives here. You can use **Markdown** here :)
+
 My character: [[Roque]]
 
 Plot Dump: 
@@ -15,7 +18,6 @@ Every month the [[hunter association]] has a recruitment process. We have 1000+ 
 
 3 story building, very modern, fortified. 
 1200 
-
 Its a very secure space. other than governors home
 	- [[Chuck]] enters 
 		- Sees [[Paxton]]
@@ -49,7 +51,7 @@ Its a very secure space. other than governors home
 	- Throws paper everywhere
 	- gets escorted out
 	- *80 points passed*
-- some people get knocked out [[Lily rose]] is called, last name of a noble. 
+- some people get knocked out [[lily rose]] is called, last name of a noble. 
 - [[Paxton]] -> gets 17 -> *2 degrees
 	- Assoc
 		- 1 + 5 + 4 -> *-1 degree* 
@@ -69,27 +71,25 @@ Its a very secure space. other than governors home
 	- *-1 Degree*
 	- *1 degree*
 	- *40 points 575* 
-
-[side scene in bathroom]
-[[Tag]] is in the bathroom, tagging it lol
-[[Lily rose]] enters.
-- taller than tag with heels on 
-- asks Tag if they are doing okay, and lets them know they will do good on the beast exam. 
-	- Lily poses with Tag's art and takes a selfie
-
-[Back in Exam Hall]
-[[Humanoid Hawk]] announces his code name: [[Falcon]]
-He screeches incredibly loudly, everyone is eyes forward.
+[[lily rose]] and [[Tag]] are in the bathroom to meet tag.
+- taller 
+- asks Tag are u okay 
+	- poses with art 
+[[Humanoid Hawk]] code name falcon
+screeches, everyone is eyes forward.
 
 - we were near the old capital
 	- heading south
-	- Everyone has a chance to redeem themselves in the beast hunt 
-	- Periodically, the organization clears the outer perimeter of the walls using these exams. 
 
-*Our Characters depart*
-->
 [[beast hunting arc]]
 
+
+Characters: 
+
+
+
+
+My Notes: 
 
 
 
