@@ -1,8 +1,7 @@
 ---
-title: Example Title
+title: Welcome to Our Campaign
 draft: false
 tags:
-  - example-tag
 ---
 
 
