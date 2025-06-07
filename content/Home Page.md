@@ -1,6 +1,13 @@
 ---
-title: Welcome to My Campaign Notes
+title: Example Title
+draft: false
+tags:
+  - example-tag
 ---
+
+
+
+
 This is a collection of my campaign notes for a Mutants and Masterminds campaign between me and my friends.
 
 The setting is as follows: 
