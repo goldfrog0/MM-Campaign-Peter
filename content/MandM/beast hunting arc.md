@@ -44,9 +44,9 @@ Less gunfire over the next hour
 
 Competitors are further away.
 
-Roque noticed 3 beasts, human in trouble, lets the rest of the group know. 
+Roque noticed 3 beasts, and perhaps a human in trouble, lets the rest of the group know. 
 
-[[Paxton]] and [[Tag]] happen upon the scene, a crashed plane is in the scene, with two buildings, and a large crater
+[[Paxton]] and [[Tag]] rush to the scene, a crashed plane is in the scene, with two buildings, and a large crater
 
 Ape and 2 monkeys are surrounding people. 
 [[Lucas Warwick]] is surrounded, one of the 4 prince/ princesses of the bastion, wearing his goggles and battlesuit. 
