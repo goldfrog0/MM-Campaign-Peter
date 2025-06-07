@@ -7,15 +7,21 @@ tags:
   - story
   - session1
 ---
-we are all on the same team
-we all discuss our powers
+[[Tag]] asks [[Falcon]] where the largest target is, and he flies up, and point to the southwest. 
 
-we happen upon ruins, a body of water. 
+Our group all ends up on the same team:
+
+We all discuss our powers with each other. 
+
+Based on the info gathered from Falcon, we decide to travel to the South. 
+
+We happen upon ruins, a body of water. 
 [[Paxton]] realizes the water should not be here.
 
-Stand: 
+The team happen upon a large [[Bobcat]], flanked by four of its wives. 
 
-find a bobcat -> def
+# Combat 1
+```
 [[Tag]] initiates
 [[Roque]] summons, and sets up defense
 [[Paxton]] takes on afflictions from [[Chuck]]
@@ -33,12 +39,15 @@ kills cat
 loses high
 
 [[Roque]]
+```
 
 Many in the group realize they should get out of the open now. 
 
 The group heads into a nearby building to rest
 
-*snakes attack* -> [[Roque]] and [[Chuck]]
+# Small Encounter Begins
+
+*Two snakes attack* -> [[Roque]] and [[Chuck]]
 
 Chuck gets hit by a snake and is dazed
 
@@ -61,12 +70,10 @@ Less gunfire over the next hour
 
 Competitors are further away.
 
-<<<<<<< HEAD
-Roque noticed 3 beasts, and perhaps a human in trouble, lets the rest of the group know. 
-=======
 Roque noticed 3 beasts, human in trouble, 
->>>>>>> parent of e40c146 (Quartz sync: Jun 6, 2025, 10:48 PM)
 
+# Combat 2
+```
 [[Paxton]] and [[Tag]] rush to the scene, a crashed plane is in the scene, with two buildings, and a large crater
 
 Ape and 2 monkeys are surrounding people. 
@@ -92,6 +99,9 @@ Lucas is shocked, by elated at the challenge.
 [[Tag]] Dashes in to stab the gorilla with an all out attack, Downing the Gorilla. 
 
 [[Chuck]] chucks a fucking rock a the ape, and it fucking dies. 
+```
+
+# Post Gorilla encounter
 
 [[Lucas Warwick]] is intrigued to see a fellow speedster, and acknowledges the rock throw as well as [[Tag]]. 
 
@@ -105,7 +115,7 @@ Lucas is shocked, by elated at the challenge.
 - Lucas - *hands an energizing bar to [[Tag]]* Here, take this.
 - Tag - *Takes bar* Thanks
 
-Team clears points threshold
+Whole Team clears points threshold for the exam.
 
 - Lucas - thanks for the help, didn't need it but thank you
 - Paxton - No worries, I just wanted to help
@@ -128,9 +138,8 @@ The group pulls up on an area.
 It is 0100 the next day, very dark. The group hears chirping. 
 
 [[Paxton]] and [[Roque]] activate flashlights, handing the flashlight to his stand. 
-
-Stand 8: -9 staggered 
-Me : 0 
+```
+[[Crash Dummy]] and [[Paxton]] are attacked by bats
 
 Bats go in for another attack
 
@@ -205,8 +214,5 @@ Bat crits [[Tag]], and is staggered.
 [[Chuck]] Kills the last bat!
 
 Encounter ends. 
-
-
-
-
+```
 

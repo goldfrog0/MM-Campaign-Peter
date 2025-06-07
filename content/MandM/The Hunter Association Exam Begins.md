@@ -75,7 +75,7 @@ Its a very secure space. other than governors home
 - taller 
 - asks Tag are u okay 
 	- poses with art 
-[[Humanoid Hawk]] code name falcon
+[[Humanoid Hawk]] -> code name [[Falcon]]
 screeches, everyone is eyes forward.
 
 - we were near the old capital
